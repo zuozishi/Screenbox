@@ -264,7 +264,7 @@
       "NETStandard.Library": {
         "type": "Transitive",
         "resolved": "2.0.3",
-        "contentHash": "548M6mnBSJWxsIlkQHfbzoYxpiYFXZZSL00p4GHYv8PkiqFBnnT68mW5mGEsA/ch9fDO9GkPgkFQpWiXZN7mAQ==",
+        "contentHash": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
         }
@@ -527,6 +527,11 @@
         "resolved": "2.3.0",
         "contentHash": "Qo4z6ZjnIfbR3Us1Za5M2vQ97OWZPmODvVmepxZ8XW0UIVLGdO2T63/N3b23kCcyiwuIe0TQvMEQG8wUCCD1mA=="
       },
+      "TinyPinyin.Net": {
+        "type": "Transitive",
+        "resolved": "1.0.2",
+        "contentHash": "dbQcaukn7DEOsgFJn4YFQT0zfbALWHZiZMIvsvLOaMQRnCnOfYPE5Fq4PoIqCgGMnPt21NsLxEuXYRq4QQSnDA=="
+      },
       "screenbox.core": {
         "type": "Project",
         "dependencies": {
@@ -541,6 +546,7 @@
           "Microsoft.UI.Xaml": "[2.8.7, )",
           "Sentry": "[5.15.1, )",
           "TagLibSharp": "[2.3.0, )",
+          "TinyPinyin.Net": "[1.0.2, )",
           "protobuf-net": "[3.2.30, )"
         }
       }
